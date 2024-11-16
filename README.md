@@ -1,2 +1,4 @@
 # frontendmentor
-Exercises with Frontend Mentor
+Exercises with frontendmentor.io
+
+solving the qr code challenge.
